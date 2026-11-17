@@ -1,5 +1,6 @@
 > [!IMPORTANT]
 > O repositorio foi arquivado e desatualizado indeterminadamente. Os arquivos estão disponivel para download no Release.
+> NOVO REPOSITORIO: (https://github.com/speedtroid/Metroid-ZeroMission_hacks-Translations)[https://github.com/speedtroid/Metroid-ZeroMission_hacks-Translations]
 
 # Metroid-GBA-Hacks
 Meus hacks, traduções ou melhorias do Fusion.
