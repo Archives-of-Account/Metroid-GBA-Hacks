@@ -1,6 +1,12 @@
 # Timeline
 Todas as alterações feita com commits (e pull requests) deste [Repositório](https://github.com/samuelnascimentobomfim9-a11y/Metroid-Fusion-Hacks) serão documentadas neste arquivo.
 
+### 2026-11-17
+
+- Final Commit [Commit: [5be1d05](https://github.com/speedtroid/Metroid-GBA-Hacks/commit/5be1d05ef02cf518fb0977d481280b00bbcb70d2)]
+  - REPOSITORIO FECHADO PERMANENTIMENTE
+Signed-off-by: Speedtroid2027 <samuelnascimentobomfim9@gmail.com>
+
 ### 2026-09-28
 
 - Ataulizar README.md [Commit: [e3dd958](https://github.com/samuelnascimentobomfim9-a11y/Metroid-GBA-Hacks/commit/e3dd958205319210d3787143b887893f9eda6bc9)]
