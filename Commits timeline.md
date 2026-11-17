@@ -3,6 +3,11 @@ Todas as alterações feita com commits (e pull requests) deste [Repositório](h
 
 ### 2026-11-17
 
+- FINAL COMMIT 2 [Commit: [1a0b6cc](https://github.com/speedtroid/Metroid-GBA-Hacks/commit/1a0b6cc4654e3e2209bd55466e12e2a5719a0504)]
+  - Signed-off-by: Speedtroid2027 <samuelnascimentobomfim9@gmail.com>
+
+### 2026-11-17
+
 - Final Commit [Commit: [5be1d05](https://github.com/speedtroid/Metroid-GBA-Hacks/commit/5be1d05ef02cf518fb0977d481280b00bbcb70d2)]
   - REPOSITORIO FECHADO PERMANENTIMENTE
 Signed-off-by: Speedtroid2027 <samuelnascimentobomfim9@gmail.com>
